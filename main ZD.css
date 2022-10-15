@@ -1,0 +1,29 @@
+li {
+  background: #b3d4fc;
+  color: brown;
+  font-size: 100%;
+  font-family: Arial, Verdana, sans-serif;
+  text-align:-moz-center;
+
+}
+
+h1 {
+  background: #222222;
+  color: white;
+  font-family: AppleGothic, Comic Sans MS, sans-serif;
+  text-align: center;
+}
+h2 {
+  background:greenyellow;
+  color: white;
+  font-family: AppleGothic, Comic Sans MS, sans-serif;
+  text-align: center;
+}
+h2:hover{
+  background: yellow;
+  color: white;
+}
+p {
+  background: antiquewhite;
+  color: darkblue;
+}
