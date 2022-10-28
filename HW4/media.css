@@ -1,0 +1,36 @@
+@media screen and (max-width: 900px){
+    .A{
+        width: 500px;
+        height: 100px;
+    }
+    .B{
+        width: 500px;
+        height: 400px;
+        justify-content: space-between;
+        display: flex;
+    }
+    .C{
+        width: 500px;
+        height: 100px;
+    }
+    .B_1{
+        width: 500px;
+        height: 200px;
+    }
+    .B_2{
+        width: 500px;
+        height: 200px;
+    }
+    .B_2_1{
+        width: 166.6px;
+        height: 200px;
+    }
+    .B_2_2{
+        width: 166.6px;
+        height: 200px;
+    }
+    .B_2_3{
+        width: 166.6px;
+        height: 200px;
+    }
+}
