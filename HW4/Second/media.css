@@ -1,0 +1,52 @@
+@media screen and (max-width: 900px) {
+    .A{
+        width: 300px;
+        height: 150px;
+    }
+    .BCDEFG{
+        width: 300px;
+        height: 200px;
+    }
+    .H{
+        width: 300px;
+        height: 150px;
+    }
+    .container{
+        width: 300px;
+        height: 500px;
+    }
+    .BCD{
+        width: 300px;
+        height: 100px;
+    }
+    .B{
+        width: 100px;
+        height: 100px;
+    }
+    .C{
+        width: 100px;
+        height: 100px;
+    }
+    .D{
+        width: 100px;
+        height: 100px;
+    }
+    .E{
+        width: 100px;
+        height: 100px;
+    }
+    .F{
+        width: 100px;
+        height: 100px;
+    }
+    .G{
+        width: 100px;
+        height: 100px;
+    }
+
+    .EFG{
+        width: 300px;
+        height: 100px;
+    }
+    
+}
